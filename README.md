@@ -2,10 +2,6 @@
 We are interested in understanding the metabolic pathways used by *Thevetia peruviana* for the production of cardiotonic compounds *in vitro*
 
 ## Experimental design
-
-![alt text](https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/Experimental_Desing.png)
-
-<img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/Experimental_Desing.png" width=50% height=50%>
+<img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/Experimental_Desing.png" width=70% height=70%>
 ## Bioinformatic Analysis workflow
-
-![alt text](https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/Workflow.png){:height="50%" width="50%"}
+<img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/Workflow.png" width=70% height=70%>
