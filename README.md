@@ -11,15 +11,17 @@ We are interested in understanding the metabolic pathways used by *Thevetia peru
 
 To explore annotations, you can download the files GOTABLE.html and the anotataciones.html and open them into your web explorer (e.g. Firefox). Then you can type your GO term of interest in the search box of GOTABLE.html (e.g. fatty acid biosynthetic process) and get the ID of the transcript annotated to that function. Finally, you can get its nucleotide or amino acid sequence by copying its ID in the search box of anotaciones.html. See the step by step process below. 
 
+
+### steps 1 and 2
 <img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/step1.PNG" width=70% height=70%>
 
-
+### steps 3 and 4
 <img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/step_2.png" width=70% height=70%>
 
-
+### steps 5 and 6
 <img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/step3.png" width=70% height=70%>
 
-
+### END
 <img src="https://github.com/juearcilaga/Thevetia-Peruviana-transcriptome-analysis/blob/main/step4.png" width=70% height=70%>
 
 
